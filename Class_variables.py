@@ -25,3 +25,4 @@ emp1.pay_raise()
 print(emp1.pay)
 emp1.reduce_pay()
 print(emp1.pay)
+
